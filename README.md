@@ -1,15 +1,15 @@
-## Particle Swarm Optimization (PSO) Visualizer and Controller | 2024
+## ⭐ Particle Swarm Optimization (PSO) Visualizer and Controller | 2024
 
 This project implements a Particle Swarm Optimization (PSO) algorithm through an interactive C# interface.
 It allows the user to configure core parameters such as:
 
-⭐ Number of particles (N)
+1️⃣ Number of particles (N)
 
-⭐ Number of generations (G)
+2️⃣ Number of generations (G)
 
-⭐ Cognitive coefficient (C1)
+3️⃣ Cognitive coefficient (C1)
 
-⭐ Social coefficient (C2)
+4️⃣ Social coefficient (C2)
 
 The system supports multiple termination criteria — Generation count, Epsilon threshold, or Convergence detection.
 During execution, the program visualizes the Gbest Convergence Graph, displaying how the swarm collectively approaches the global optimum.
