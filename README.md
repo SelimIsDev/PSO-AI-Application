@@ -20,5 +20,5 @@ The final output shows the minimum objective function value (Min Obj) obtained t
 ## 🖼 Screenshots
 
 <p align="center">
-<img width="1055" height="576" alt="Ekran görüntüsü 2025-10-19 221313" src="https://github.com/user-attachments/assets/5f408be9-4aed-41b8-9da3-bc5988210e09" />
+<img width="520" height="280" alt="Ekran görüntüsü 2025-10-19 221313" src="https://github.com/user-attachments/assets/5f408be9-4aed-41b8-9da3-bc5988210e09" />
 </p>
